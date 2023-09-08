@@ -128,10 +128,10 @@ https://jwc.upc.edu.cn/_upload/article/files/ec/79/b3aaab4b453e8c3b274f5c76b548/
   
 </details>
 
-<a name="teacher"></a>
+
 <details>
   <summary>如果不知道怎么找任课教师的联系方式，请阅读该部分</summary>
-
+<a name="teacher"></a>
 1. 百度搜索该任课教师名字
 2. 打开石大官网，在教学院部部分进入老师所在院部，搜索名字
 3. 如果实在找不到，可以在石大转专业交流群（QQ群：534385291）询问
