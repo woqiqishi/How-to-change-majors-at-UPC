@@ -86,15 +86,19 @@ https://jwc.upc.edu.cn/_upload/article/files/ec/79/b3aaab4b453e8c3b274f5c76b548/
   <summary>由于免听系统设计存在的难以操作问题，在此补充一些操作流程，供不熟悉的同学参考：</summary>
   
   点击左上角全部课程，等待一两分钟。
+  
 ![image](https://github.com/woqiqishi/How-to-change-majors-at-UPC/assets/131324500/d314fbdc-6c38-4fd3-9313-0e35540ada79)
 
   加载出来后搜索要查询的课程
+  
 ![image](https://github.com/woqiqishi/How-to-change-majors-at-UPC/assets/131324500/9c7671a0-7f1a-4e35-b024-7d28a8bfbca5)
 
   拉到右下角翻页并等待
+  
 ![image](https://github.com/woqiqishi/How-to-change-majors-at-UPC/assets/131324500/61224e8a-4fd9-4350-8dc9-00f1615c867b)
 
   等到加载完毕（左上角不再转圈）翻回第一页
+  
 ![image](https://github.com/woqiqishi/How-to-change-majors-at-UPC/assets/131324500/bd0389cc-13e9-4680-bed9-85f6ca9ae87d)
 
   选择要免听的课并提交。“其他事由或说明”可以随便填，一般填时间冲突即可。
@@ -167,6 +171,7 @@ https://jwc.upc.edu.cn/_upload/article/files/ec/79/b3aaab4b453e8c3b274f5c76b548/
 <details>
   <summary>如果你不知道系主任是谁，不知道如何联系系主任，请查看本部分</summary>
   此处以计科为例：
+  
   ![image](https://github.com/woqiqishi/How-to-change-majors-at-UPC/assets/131324500/2192bd02-f1f4-4edb-982d-822c0170c37a)
 
   ![image](https://github.com/woqiqishi/How-to-change-majors-at-UPC/assets/131324500/e2e3fe7b-c336-4574-b9dd-5412ffccbe9a)
@@ -181,13 +186,25 @@ https://jwc.upc.edu.cn/_upload/article/files/ec/79/b3aaab4b453e8c3b274f5c76b548/
 ## 转专业数据分析
 该部分仅通过数据分析的形式提供一些参考信息，不提供任何具体建议。
 
+![image](https://github.com/woqiqishi/How-to-change-majors-at-UPC/assets/131324500/b0af972e-a999-415c-aeef-a7cc82cbb345)
+
 值得注意的是，该图中部分专业为专业大类（如材料类有300余人），部分专业则不是（如俄语是细分专业，只有50人），所以实际情况可能与直观感受有所出入。
 
+![image](https://github.com/woqiqishi/How-to-change-majors-at-UPC/assets/131324500/ae3b1f87-8eeb-4e5b-b409-4bfb41840154)
+
+![image](https://github.com/woqiqishi/How-to-change-majors-at-UPC/assets/131324500/1964a3d7-5d2d-4ff7-963e-0f69e7ea4756)
 
 值得注意的是，该表中的22级为大一学生，主要转专业方式为学优转和特长转，而21、20、19级则主要为选课转。
+
 ## 附录
 各教学办办公地点与电话
 
+![image](https://github.com/woqiqishi/How-to-change-majors-at-UPC/assets/131324500/1429fe5d-3a47-4ab0-a830-6c905a83f29f)
+
 教务处位置，即旧图一楼靠近实验楼一侧
+
+![image](https://github.com/woqiqishi/How-to-change-majors-at-UPC/assets/131324500/c4b26ad3-cf2e-453a-88bf-b10268941a8f)
+
 教务处工作时间：
+
 一般来说是早八晚六，中午从12点休息到下午两点半左右。~具有一定弹性。~
