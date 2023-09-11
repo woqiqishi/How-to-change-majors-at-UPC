@@ -101,7 +101,7 @@ UPC转专业交流QQ群：534385291
 https://jwc.upc.edu.cn/_upload/article/files/ec/79/b3aaab4b453e8c3b274f5c76b548/2fd0bb42-e5a3-412b-a708-0aea082fcbb9.pdf
 
 <details>
-  <summary>由于免听系统设计存在的难以操作问题，在此补充一些操作流程，供不熟悉的同学参考：</summary>
+  <summary>由于免听系统设计存在的难以操作、加载慢等问题，在此补充一些操作流程细节：</summary>
   
   点击左上角全部课程，等待一两分钟。
   
