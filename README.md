@@ -234,3 +234,7 @@ https://jwc.upc.edu.cn/_upload/article/files/ec/79/b3aaab4b453e8c3b274f5c76b548/
 教务处工作时间：
 
 一般来说是早八晚六，中午从12点休息到下午两点半左右。~具有一定弹性。~
+
+中国石油大学（华东）2021届毕业生就业质量报告下载链接：
+
+https://career.upc.edu.cn/uploads/editorfile/20220916/062717c71c6b6a2cb6f49b2291264fbb.pdf
