@@ -253,6 +253,7 @@ https://jwc.upc.edu.cn/_upload/article/files/ec/79/b3aaab4b453e8c3b274f5c76b548/
 各教学办办公地点与电话
 
 ![image](https://github.com/woqiqishi/How-to-change-majors-at-UPC/assets/131324500/1429fe5d-3a47-4ab0-a830-6c905a83f29f)
+
 <a name="教学运行科"></a>
 教学运行科位置，即旧图一楼靠近实验楼一侧
 
